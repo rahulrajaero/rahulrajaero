@@ -1,8 +1,5 @@
 ### Hi there, I'm Rahul [website] 
 
-[![Website]](http://rahulrajaero.github.io/)
-[![Twitter Follow]](https://twitter.com/rahulrajaero)
-
 ## I do
 
 - Machine Learning
