@@ -6,7 +6,11 @@
 - Deep Learning
 - Natural Language Processing
 
+<<<<<<< HEAD
 <h1 align='center', color = 'blue'>Open for Remote Opportunities</h1>
+=======
+<h1 align='center', color = 'blue'>Open for the Opportunities</h1>
+>>>>>>> 55fed264ef4a1956d0fc80283969caeabf807ffc
 
 ### Contact me:
 
