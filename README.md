@@ -6,7 +6,7 @@
 - Deep Learning
 - Natural Language Processing
 
-<h1 align='center', color = 'blue'>Open for New Opportunities</h1>
+<h1 align='center', color = 'blue'>Open for Remote Opportunities</h1>
 
 ### Contact me:
 
