@@ -30,10 +30,6 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-#### TO DO
-* Maths (Bio/Hist/Famous formula discussion)
-* Consulting (Updated for career/ML/Communication)
-* Others (Essay writing)
 
 ---
 [website]: http://rahulrajaero.github.io/
