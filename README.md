@@ -1,10 +1,9 @@
 ### Hi there, I'm Rahul [website] 
 
-## I do
+## I am Data Science Consultant. I am interested in
 
+- Python
 - Machine Learning
-- Deep Learning
-- Natural Language Processing
 
 
 
