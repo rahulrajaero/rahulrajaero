@@ -12,6 +12,10 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />]
+[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postgresql.svg" />]
+[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />]
+[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftexcel.svg" />]
+
 <br />
 <br />
 
@@ -32,10 +36,11 @@ Here I will link my top repo containing my past works. Few Repo are outcomes of 
 Self-Project: - 
 - [Sentiment Analysis] This is project from scratch.
 <br/>
+
 ### Contact me:
 
 [<img align="left" alt="rahulrajaero | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
-[<img align="left" alt="rahulrajaero | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]Twitter]
+[<img align="left" alt="rahulrajaero | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
 
 ---
 [Twitter]: https://twitter.com/rahulrajaero
