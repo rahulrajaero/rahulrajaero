@@ -7,12 +7,6 @@
 - Machine Learning
 
 
-
-### Contact me:
-
-[<img align="left" alt="rahulrajaero | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
-[<img align="left" alt="rahulrajaero | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]Twitter]
-
 <br />
 
 ### Languages and Tools:
@@ -22,21 +16,26 @@
 <br />
 
 ---
+<br />
 
 ### 📕 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 
-
+Here I will link my all posts/articles.
 <!-- BLOG-POST-LIST:END -->
+<br />
 
 ### Portfolio-Repo
 Here I will link my top repo containing my past works. Few Repo are outcomes of my courses from Coursera. and Few Are completely mine from idea to implementation.
 
 Self-Project: - 
 - [Sentiment Analysis] This is project from scratch.
+<br/>
+### Contact me:
 
-
+[<img align="left" alt="rahulrajaero | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+[<img align="left" alt="rahulrajaero | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]Twitter]
 
 ---
 [Twitter]: https://twitter.com/rahulrajaero
