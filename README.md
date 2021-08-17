@@ -1,22 +1,23 @@
-### Hi there, I'm Rahul [website] 
+### Hi there, I'm Rahul.
 
 ## I am Data Science Consultant. I am interested in
 
 - Python
+- Data Analytics
 - Machine Learning
 
 
 
 ### Contact me:
 
-[<img align="left" alt="rahulrajaero | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="rahulrajaero | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+[<img align="left" alt="rahulrajaero | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]Twitter]
 
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
-
+[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />]
 <br />
 <br />
 
@@ -29,7 +30,17 @@
 
 <!-- BLOG-POST-LIST:END -->
 
+### Portfolio-Repo
+Here I will link my top repo containing my past works. Few Repo are outcomes of my courses from Coursera. and Few Are completely mine from idea to implementation.
+
+Self-Project: - 
+- [Sentiment Analysis] This is project from scratch.
+
+
 
 ---
-[website]: http://rahulrajaero.github.io/
-[twitter]: https://twitter.com/rahulrajaero
+[Twitter]: https://twitter.com/rahulrajaero
+[LinkedIn]: https://www.linkedin.com/in/rahulraj-iitkgp/
+[NLP Specialization]: https://github.com/rahulrajaero/NLP-Specialization
+[Python-for-Everybody]: https://github.com/rahulrajaero/Python-for-Everybody
+[Sentiment Analysis]: https://github.com/rahulrajaero/Jupyter-Notebook/tree/master/WebScrapping/Disney%20Movie%20Project
