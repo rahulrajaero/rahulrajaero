@@ -11,16 +11,16 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />]
-[<img align="left" alt="pytorch" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/pytorch.svg" />]
-[<img align="left" alt="sklearn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/scikit-learn.svg" />]
-[<img align="left" alt="pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/pandas.svg" />]
-[<img align="left" alt="numpy" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/numpy.svg" />]
+[<img align="left" alt="python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg"/>]
+[<img align="left" alt="pytorch" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/pytorch.svg"/>]
+[<img align="left" alt="sklearn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/scikit-learn.svg"/>]
+[<img align="left" alt="pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/pandas.svg"/>]
+[<img align="left" alt="numpy" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/numpy.svg"/>]
 <br/>
-[<img align="left" alt="tableau" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tableau.svg" />]
-[<img align="left" alt="psql" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postgresql.svg" />]
-[<img align="left" alt="github" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />]
-[<img align="left" alt="excel" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftexcel.svg" />]
+[<img align="left" alt="tableau" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tableau.svg"/>]
+[<img align="left" alt="psql" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postgresql.svg"/>]
+[<img align="left" alt="github" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg"/>]
+[<img align="left" alt="excel" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftexcel.svg"/>]
 
 <br />
 
@@ -43,7 +43,7 @@ Self-Project: -
 <br/>
 
 ### Contact me:
-
+You can contact me through linkedin. Here are my profiles at other platfroms.
 [<img align="left" alt="rahulrajaero | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" alt="rahulrajaero | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
 <br/>
